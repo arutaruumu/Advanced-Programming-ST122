@@ -1,0 +1,15 @@
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\bin\Debug\net7.0\oop_pemrog.exe
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\bin\Debug\net7.0\oop_pemrog.deps.json
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\bin\Debug\net7.0\oop_pemrog.runtimeconfig.json
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\bin\Debug\net7.0\oop_pemrog.dll
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\bin\Debug\net7.0\oop_pemrog.pdb
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\obj\Debug\net7.0\oop_pemrog.csproj.AssemblyReference.cache
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\obj\Debug\net7.0\oop_pemrog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\obj\Debug\net7.0\oop_pemrog.AssemblyInfoInputs.cache
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\obj\Debug\net7.0\oop_pemrog.AssemblyInfo.cs
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\obj\Debug\net7.0\oop_pemrog.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\obj\Debug\net7.0\oop_pemrog.dll
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\obj\Debug\net7.0\refint\oop_pemrog.dll
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\obj\Debug\net7.0\oop_pemrog.pdb
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\obj\Debug\net7.0\oop_pemrog.genruntimeconfig.cache
+C:\Users\LENOVO\PEMROG LANJUT\oop_pemrog\oop_pemrog\obj\Debug\net7.0\ref\oop_pemrog.dll
