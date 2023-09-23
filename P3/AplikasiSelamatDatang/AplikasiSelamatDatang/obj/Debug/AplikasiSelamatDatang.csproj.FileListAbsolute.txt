@@ -1,0 +1,11 @@
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe.config
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.pdb
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.AssemblyReference.cache
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.frmSelamatDatang.resources
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.Properties.Resources.resources
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.GenerateResource.cache
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.exe
+C:\Users\LENOVO\PEMROG LANJUT\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.pdb
