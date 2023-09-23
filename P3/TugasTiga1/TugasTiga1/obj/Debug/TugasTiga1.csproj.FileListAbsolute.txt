@@ -1,0 +1,11 @@
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe.config
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.pdb
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Form1.resources
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Properties.Resources.resources
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.GenerateResource.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.exe
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.pdb
