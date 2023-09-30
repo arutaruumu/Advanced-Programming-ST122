@@ -1,0 +1,11 @@
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe.config
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.pdb
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.AssemblyReference.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Form1.resources
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Properties.Resources.resources
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.GenerateResource.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.exe
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.pdb
