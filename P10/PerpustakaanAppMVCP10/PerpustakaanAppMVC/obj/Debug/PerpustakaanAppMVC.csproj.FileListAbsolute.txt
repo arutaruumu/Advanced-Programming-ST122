@@ -1,0 +1,15 @@
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.dll
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.xml
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.AssemblyReference.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CopyComplete
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+C:\Users\LENOVO\PEMROG LANJUT\Laporan-Praktikum\P10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
