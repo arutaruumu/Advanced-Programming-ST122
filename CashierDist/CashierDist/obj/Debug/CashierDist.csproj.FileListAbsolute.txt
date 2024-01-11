@@ -1,0 +1,5 @@
+D:\PROJECT\FP\CashierDist\CashierDist\obj\Debug\CashierDist.csproj.AssemblyReference.cache
+D:\PROJECT\FP\CashierDist\CashierDist\obj\Debug\CashierDist.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT\FP\CashierDist\CashierDist\obj\Debug\CashierDist.Properties.Resources.resources
+D:\PROJECT\FP\CashierDist\CashierDist\obj\Debug\CashierDist.csproj.GenerateResource.cache
+D:\PROJECT\FP\CashierDist\CashierDist\obj\Debug\CashierDist.csproj.CoreCompileInputs.cache
